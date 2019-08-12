@@ -1,5 +1,12 @@
 # 数据库
-
+- RDBMS
+    - MySQL
+    - PostgreSQL
+- DBMS类型：
+    - NoSQL
+        - MongoDB
+    - NewSQL
+        - TiDB
 ## 分类
 数据库分为：关系型数据库和非关系型数据库：
 - 关系型：mysql、oracle、sqlserver
